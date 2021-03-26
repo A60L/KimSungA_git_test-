@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>version</title>
 </head>
 <style>
 .wrap{margin: 0 auto;}
